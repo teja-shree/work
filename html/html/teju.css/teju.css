@@ -1,0 +1,30 @@
+body{
+    margin: 2cm;
+    padding: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #f0ffff;
+background-image:\Users\DELL\1699361962138.jpg;
+    background-size: cover;
+    background-repeat: no-repeat;
+};
+.container{
+    text-align: center;
+    padding: 100px;
+}
+
+img{
+    
+    max-width: 13%;
+    height: min-content;
+    border-image-outset: 2ch;
+}
+h1{
+    font-size: 35px;
+    margin: 10px;
+    color: black;
+}
+
+.info{
+    font-size: 20px;
+    margin: 30px 60px;
+}
